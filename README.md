@@ -1,1 +1,3 @@
-# JavaScript_Ejercicios
+## JavaScript_Ejercicios
+
+Ejercicios JavaScript
